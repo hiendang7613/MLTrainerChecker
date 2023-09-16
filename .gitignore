@@ -1,0 +1,59 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.egg-info/
+dist/
+build/
+htmlcov/
+.coverage
+.coverage.*
+.idea/
+.tox/
+.pytest_cache/
+.cython/
+*.so
+*.dylib
+*.dll
+
+# Virtual environment
+venv/
+env/
+*.env/
+
+# Dependency management
+node_modules/
+package-lock.json
+yarn.lock
+Pipfile.lock
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.iml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Other
+*.bak
+*.swp
+*.tmp
+*.log
+*.tmp
+*.diff
+*.orig
+*.rej
+*~
+__MACOSX/
+*.DS_Store
