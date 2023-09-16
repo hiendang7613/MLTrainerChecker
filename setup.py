@@ -1,11 +1,11 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='your-package-name',
-    version='0.1',
-    description='Your package description',
-    author='Your Name',
-    author_email='your@email.com',
-    url='https://github.com/hiendang7613/Pytorch-Tensorflow-Checker',
+    name='mltrainer-checker',
+    version='1.0',
+    description='A tool to validate machine learning models implemented on different machine learning platforms to ensure they are working correctly.',
+    author='hiendang7613',
+    author_email='dvhqnn1@gmail.com',
+    url='https://github.com/hiendang7613/MLTrainerChecker',
     packages=find_packages(),
 )
