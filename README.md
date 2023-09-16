@@ -1,6 +1,6 @@
 # MLTrainer Checker
 
-MLTrainer Checker is a Python tool designed to validate machine learning models implemented on different machine learning platforms, ensuring they are working correctly. This tool allows you to verify the integrity and performance of your machine learning models with ease.
+MLTrainer Checker is a Python tool designed to validate machine learning models implemented on different machine learning platforms, ensuring they are working correctly. 
 
 ## Features
 
