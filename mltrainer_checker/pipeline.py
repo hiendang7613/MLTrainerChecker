@@ -1,9 +1,9 @@
-from copy_weights import W_Torch2TF
-from covert_dataloader import Torch_loader2TF_loader, TF_loader2Torch_loader
+from .copy_weights import W_Torch2TF
+from .covert_dataloader import Torch_loader2TF_loader, TF_loader2Torch_loader
 import torch
 import tensorflow as tf
-from trainer_checker import TrainerChecker
-from utils import SetZeroLearningRate
+from .trainer_checker import TrainerChecker
+from .utils import SetZeroLearningRate
 
 def test_trainer(
     tf_trainer, torch_trainer, 

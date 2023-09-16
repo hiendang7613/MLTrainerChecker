@@ -1,1 +1,1 @@
-from pipeline import test_trainer
+from .pipeline import test_trainer
